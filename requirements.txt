@@ -1,0 +1,13 @@
+Requirement already satisfied: pip in ./venv/lib/python2.7/site-packages (20.2.4)
+Collecting freeze
+  Downloading freeze-3.0.tar.gz (188 kB)
+Collecting six
+  Downloading six-1.15.0-py2.py3-none-any.whl (10 kB)
+Building wheels for collected packages: freeze
+  Building wheel for freeze (setup.py): started
+  Building wheel for freeze (setup.py): finished with status 'done'
+  Created wheel for freeze: filename=freeze-3.0-py2-none-any.whl size=12101 sha256=47e3d5f4832e170f7e7390996fd2442ed3c0fed66dfe87ae94cf41526832f968
+  Stored in directory: /Users/gc/Library/Caches/pip/wheels/0c/b1/fd/45db006f40778bc3d70815a7a1c77e3238d7bfa1f1f332cc0d
+Successfully built freeze
+Installing collected packages: six, freeze
+Successfully installed freeze-3.0 six-1.15.0
